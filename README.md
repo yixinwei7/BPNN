@@ -3,4 +3,4 @@
 data_packet.csv 为提取的特征值, 即为电机两路正反转时域特征： 波峰因子，脉冲因子，裕度因子.  
 one—hot 标签为10 为异常样本  one-hot 标签为 01 为正常样本
 
-train1 为训练的bpnn模型
+train1.py 为训练的bpnn模型
